@@ -12,7 +12,7 @@ buttons.map( button => {
                 try{
                     display.innerText = eval(display.innerText);
                 } catch {
-                    display.innerText = "Sorry but there is an ERROR."
+                    display.innerText = "ERROR FOUND :(."
                 }
                 break;
             case '←':
