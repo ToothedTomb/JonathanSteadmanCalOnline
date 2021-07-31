@@ -1,5 +1,5 @@
 .container {
-    max-width: 400px;
+    max-width: 300px;
     margin: 10vh auto 0 auto;
     box-shadow: 0px 0px 43px 17px rgba(153,153,153,1);
 }
@@ -14,14 +14,14 @@
 
 .buttons {
     display: grid;
-    border-bottom: 1px solid #999;
-    border-left: 1px solid#999;
+    border-bottom: 2px solid #999;
+    border-left: 2px solid#999;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .buttons > div {
-    border-top: 1px solid #999;
-    border-right: 1px solid#999;
+    border-top: 2px solid #999;
+    border-right: 2px solid#999;
 }
 
 .button {
@@ -34,11 +34,11 @@
 
 #equal {
     background-color: rgb(85, 85, 255);
-    color: white;
+    color: orange;
 }
 
 .button:hover {
     background-color: #323330;
-    color: white;
+    color: blue;
     transition: 0.5s ease-in-out;
 }
