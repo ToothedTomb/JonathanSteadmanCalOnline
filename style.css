@@ -5,17 +5,17 @@
 }
 
 #display {
-    text-align: right;
+    text-align: center;
     height: 70px;
     line-height: 70px;
     padding: 16px 8px;
-    font-size: 25px;
+    font-size: 15px;
 }
 
 .buttons {
     display: grid;
-    border-bottom: 2px solid #999;
-    border-left: 2px solid#999;
+    border-bottom: 2px #FFA500;
+    border-left: 2px #999;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
