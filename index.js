@@ -5,17 +5,17 @@ let buttons = Array.from(document.getElementsByClassName('button'));
 buttons.map( button => {
     button.addEventListener('click', (e) => {
         switch(e.target.innerText){
-            case 'C':
+            case 'Reset':
                 display.innerText = '';
                 break;
-            case '=':
+            case 'Equal':
                 try{
                     display.innerText = eval(display.innerText);
                 } catch {
-                    display.innerText = "Error"
+                    display.innerText = "Sorry but there is an ERROR."
                 }
                 break;
-            case '←':
+            case 'Clear one number':
                 if (display.innerText){
                    display.innerText = display.innerText.slice(0, -1);
                 }
