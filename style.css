@@ -33,8 +33,8 @@
 }
 
 #equal {
-    background-color: rgb(85, 85, 255);
-    color: white;
+    background-color: orange;
+    color: orange;
 }
 
 .button:hover {
