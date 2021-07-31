@@ -33,8 +33,9 @@
 }
 
 #equal {
+    color: black;
     background-color: orange;
-    color: white;
+  
 }
 
 .button:hover {
