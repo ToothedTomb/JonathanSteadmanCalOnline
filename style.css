@@ -1,7 +1,7 @@
 .container {
     max-width: 100px;
-    margin: 10vh auto 0 auto;
-    box-shadow: 0px 0px 43px 13px rgba(153,153,153,1);
+    margin: 5vh auto 0 auto;
+    box-shadow: 0px 0px 43px 13px #ADD8E6 ;
 }
 
 #display {
