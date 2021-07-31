@@ -10,3 +10,5 @@ Jonathan Steadman.
 
 
 :) - I am happy you like this website. 
+
+Will this website get updates: Yes but mostly bug fixes.
