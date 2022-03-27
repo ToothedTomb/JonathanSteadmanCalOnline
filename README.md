@@ -1,4 +1,4 @@
-# JonathanSteadmanCalOnline
+# BasicCalc Online
 Free and open source calculator for the web.
 Please do not copy the code and sell it as a new product.
 The copied project has to be free and open source.
